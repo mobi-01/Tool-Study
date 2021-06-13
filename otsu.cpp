@@ -2,7 +2,7 @@
 #include <omp.h>
 #include <opencv/cv.h>
 #include "opencv2/highgui/highgui.hpp"
-#include <vector>
+//#include <vector>
 #include <math.h>
 using namespace cv;
 using namespace std;
