@@ -70,6 +70,6 @@ int main()
         }
     }
     imwrite("otsu.png",img);
-    waitKey(5000);
+    waitKey(50000);
     return 0;
 }
